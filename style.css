@@ -53,6 +53,6 @@ h3#header {
 
 div.jumbotron {border-radius: 5px;background-color: #e9ecef; padding: 10px;text-align: center;}
 
-h1.jumbotron {font-size: 60px}
+.jumbotron h1 {font-size: 60px}
 
-p.jumbotron {font-size: 20px;padding: 0 40px 0 40px;line-height: 40px}
+.jumbotron p {font-size: 20px;padding: 0 40px 0 40px;line-height: 40px}
